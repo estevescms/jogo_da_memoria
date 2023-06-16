@@ -1,10 +1,11 @@
-
   body {      
-   
+     display: block;
+   width: 100vh;
    background-image: url("/jogo_da_memoria/img/liga.png");
-   background-position: 0 50%;
+   
    background-size: cover;
-   background-position:absolute;
+background-position: 0 20%;
+   position:absolute;
   }
   /* body {
     display: table;
