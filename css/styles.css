@@ -1,13 +1,17 @@
-* {
-    padding:0;
-    margin:0;
+
+  body {      
+   background-color: lightgray;
+   background: url("/img/liga.png");
+   background-position: 0 30%;
+   background-size: cover;
+   background-position:absolute;
   }
-  body {
+  /* body {
     display: table;
     width: 100%;
-    padding: 80px;
+    padding: 40px;
     background: url(/img/liga.jpg);
-    background-position: 0 20%;
+    background-position: 0 30%;
     background-size: cover;
   }
-
+ */
