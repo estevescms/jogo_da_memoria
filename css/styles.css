@@ -5,13 +5,9 @@
   body {
     display: table;
     width: 100%;
-    padding: 80px 0;
+    padding: 70px;
     background: url(/img/liga.jpg) no-repeat bottom center scroll;
-    background-position:0% 10% ;
+    background-position: absolute;
     background-size: cover;
-  }
+    }
 
-  body {
-    background-color: 
-    grey;
-  }
