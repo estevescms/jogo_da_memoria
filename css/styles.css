@@ -1,7 +1,7 @@
 
   body {      
    background-color: lightgray;
-   background-image: url("jogo_da_memoria/img/liga.png");
+   background-image: url("/jogo_da_memoria/img/liga.png");
    background-position: 0 30%;
    background-size: cover;
    background-position:absolute;
