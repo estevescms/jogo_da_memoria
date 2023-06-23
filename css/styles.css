@@ -1,4 +1,4 @@
- body {
+/*  body {
 
     display: block;
    width: 100vh;
@@ -6,4 +6,16 @@
    background-size: cover;
    background-position: 0 16%;
    position: absolute;
-  }
+  } */
+
+
+
+  body {
+   height: 100vh;
+   margin: 0;
+   padding: 0;
+   background-image: url("/jogo_da_memoria/img/liga.jpg");
+   background-size: cover;
+   background-position: top;
+   background-repeat: no-repeat;
+ }
